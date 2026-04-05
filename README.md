@@ -36,7 +36,7 @@ Full data engineering and analytics pipeline on 700k+ Amazon book and review rec
 DuckDB columnar database architecture, REST API integration (Genderize.io),
 and SQL-first analysis across 3 research questions with statistical significance testing.
 **Stack:** Python · DuckDB · SQL · REST API · Matplotlib · Seaborn
-→ [View repository](#)
+→ [View repository](https://github.com/riddhi997/Amazon-Book-Analytics)
 
 ### 📰 Crisis News Classifier *(in progress)*
 NLP-based misinformation detection system for crisis-time news.
