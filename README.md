@@ -29,7 +29,7 @@ Built an end-to-end ML pipeline (Random Forest, Gradient Boosting),
 translated predictions into a revenue impact and operational recommendations
 for stakeholders — not just a model, a decision-support tool.
 **Stack:** Python · Scikit-learn · Pandas · Matplotlib · SQL
-→ [View repository](#)
+→ [View repository](https://github.com/riddhi997/bicing-ebike-depletion)
 
 ### 📚 Amazon Book Analytics
 Full data engineering and analytics pipeline on 700k+ Amazon book and review records.
