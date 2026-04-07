@@ -3,7 +3,7 @@
 🐱 Mother of 2 cats
 🌍 Lived on 4 continents
 🗣️ Speaks 3 languages
-🛠️ Loves building stuff that actually matters
+🛠️ Building stuff that matters
 
 ---
 
