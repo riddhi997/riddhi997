@@ -31,7 +31,7 @@ for stakeholders — not just a model, a decision-support tool.
 **Stack:** Python · Scikit-learn · Pandas · Matplotlib · SQL
 → [View repository](https://github.com/riddhi997/bicing-ebike-depletion)
 
-### 🏛️ Barcelona Architecture Classifier**
+### 🏛️ Barcelona Architecture Classifier
 Exploring image classification and transfer learning through a real-world lens: training ResNet-18 to classify Barcelona buildings across four architectural styles. The core finding was about data quality — the model's confusion between L'Eixample and Modernista reflects a genuine architectural ambiguity, not a modelling failure. Wrapped into an interactive web app with a FastAPI backend. The same pipeline, with more labelled data, could power a tool for exploring Barcelona's architectural history in the field. 
 **Stack**: Python · PyTorch · FastAPI · Docker 
 → [View repository](https://github.com/riddhi997/barcelona-arch-classifier)**
